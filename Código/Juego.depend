@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1589722163 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\bala.c
+	"Bala.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589734050 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\bala.h
+	"Colisiones.h"
+	"Pantalla.h"
+
+1589721828 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\colisiones.h
+
+1588801408 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\pantalla.h
+	"SDL2/SDL.h"
+
+1589721806 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\colisiones.c
+	"Colisiones.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589722084 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\ejercito.c
+	"Ejercito.h"
+	"Enemigos.h"
+	"Colisiones.h"
+	"Rafagas.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589736109 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\ejercito.h
+	"Pantalla.h"
+	"Rafagas.h"
+	"Enemigos.h"
+
+1589734396 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\rafagas.h
+	"Bala.h"
+
+1589734129 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\enemigos.h
+
+1589734575 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\enemigos.c
+	"Enemigos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588801408 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1589722137 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\personaje.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589736645 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\programa_principal_juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	".\Pantalla.h"
+	".\Rafagas.h"
+	".\Ejercito.h"
+	".\Personaje.h"
+
+1589737635 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\personaje.h
+	"Pantalla.h"
+
+1589730763 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\proyecto juego\48665752y\código\rafagas.c
+	"Rafagas.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+
+1589722164 source:c:\users\pablo\desktop\48665752y_enviado\código\bala.c
+	"Bala.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589734052 c:\users\pablo\desktop\48665752y_enviado\código\bala.h
+	"Colisiones.h"
+	"Pantalla.h"
+
+1589721830 c:\users\pablo\desktop\48665752y_enviado\código\colisiones.h
+
+1588801408 c:\users\pablo\desktop\48665752y_enviado\código\pantalla.h
+	"SDL2/SDL.h"
+
+1589721808 source:c:\users\pablo\desktop\48665752y_enviado\código\colisiones.c
+	"Colisiones.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589722086 source:c:\users\pablo\desktop\48665752y_enviado\código\ejercito.c
+	"Ejercito.h"
+	"Enemigos.h"
+	"Colisiones.h"
+	"Rafagas.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589736110 c:\users\pablo\desktop\48665752y_enviado\código\ejercito.h
+	"Pantalla.h"
+	"Rafagas.h"
+	"Enemigos.h"
+
+1589734398 c:\users\pablo\desktop\48665752y_enviado\código\rafagas.h
+	"Bala.h"
+
+1589734130 c:\users\pablo\desktop\48665752y_enviado\código\enemigos.h
+
+1589734576 source:c:\users\pablo\desktop\48665752y_enviado\código\enemigos.c
+	"Enemigos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588801408 source:c:\users\pablo\desktop\48665752y_enviado\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1589722138 source:c:\users\pablo\desktop\48665752y_enviado\código\personaje.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589736646 source:c:\users\pablo\desktop\48665752y_enviado\código\programa_principal_juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	".\Pantalla.h"
+	".\Rafagas.h"
+	".\Ejercito.h"
+	".\Personaje.h"
+
+1589737636 c:\users\pablo\desktop\48665752y_enviado\código\personaje.h
+	"Pantalla.h"
+
+1589730764 source:c:\users\pablo\desktop\48665752y_enviado\código\rafagas.c
+	"Rafagas.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+
+1589718564 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\bala.c
+	"Bala.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589730452 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\bala.h
+	"Colisiones.h"
+	"Pantalla.h"
+
+1589718230 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\colisiones.h
+
+1588797808 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\pantalla.h
+	"SDL2/SDL.h"
+
+1589718208 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\colisiones.c
+	"Colisiones.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589718486 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\ejercito.c
+	"Ejercito.h"
+	"Enemigos.h"
+	"Colisiones.h"
+	"Rafagas.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589732510 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\ejercito.h
+	"Pantalla.h"
+	"Rafagas.h"
+	"Enemigos.h"
+
+1589730798 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\rafagas.h
+	"Bala.h"
+
+1589730530 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\enemigos.h
+
+1589730976 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\enemigos.c
+	"Enemigos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588797808 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1589718538 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\personaje.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589733046 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\programa_principal_juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	".\Pantalla.h"
+	".\Rafagas.h"
+	".\Ejercito.h"
+	".\Personaje.h"
+
+1589734036 c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\personaje.h
+	"Pantalla.h"
+
+1589727164 source:c:\users\pablo\desktop\pceo\1º\2º cuatri\tp\48665752y_enviado\código\rafagas.c
+	"Rafagas.h"
+	"Colisiones.h"
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+
